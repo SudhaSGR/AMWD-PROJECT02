@@ -1,0 +1,33 @@
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 80vh; */
+    background-color: #f7f7f7;
+    margin: 1%;
+  }
+  
+  .login-box {
+    background-color: #e0f2e9;
+    padding: 30px;
+    border-radius: 10px;
+    width: auto;
+  }
+  
+  .login-image {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  .login-image img {
+    width: 20vw;
+    height: auto;
+    border-radius: 50%;
+  }
+
+  .login_title{
+    color: #5EB562;
+    font-weight: 600;
+    margin-bottom: 5%;
+  }

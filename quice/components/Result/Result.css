@@ -1,0 +1,17 @@
+.main{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.result-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 30vh;
+    background-color: #5EB562;
+    margin: 10%;
+    color: wheat;
+  }
+  
